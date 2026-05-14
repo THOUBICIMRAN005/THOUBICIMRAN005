@@ -1,213 +1,179 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Thoubic%20Imran%20M&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Technical%20Support%20%26%20Automation%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+# 👋 Hey, I'm Thoubic Imran
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=700&lines=I+don't+just+fix+problems+%E2%80%94+I+automate+them+away+%F0%9F%9A%80;n8n+%7C+Power+Platform+%7C+Docker+%7C+IoT+%7C+Python;Operations+Engineer+%40+Sonovision-Aetos;Building+systems+that+prevent+recurring+failures+%E2%9A%A1" alt="Typing SVG"/>
-</a>
+### Technical Support Engineer & Automation Specialist @ Sonovision-Aetos
+### Bangalore, India · Open to Opportunities
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge&logoColor=white)](https://thoubicimran005.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thoubic-imran-1043ab219/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thoubicimran005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THOUBICIMRAN005)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thoubic-imran-m)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/thoubicimran-5051/)
 
-<!-- Status badges row -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-thoubicimran005.github.io-0ea5e9?style=for-the-badge&logo=firefox&logoColor=white)](https://thoubicimran005.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thoubic-imran-1043ab219/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thoubicimran005@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thoubic-imran-m)
+---
 
-<br/>
-
-<!-- Live automation dashboard widget -->
-```
-╔══════════════════════════════════════════════════════╗
-║         🤖  AUTOMATION DASHBOARD  ·  LIVE           ║
-╠══════════════════════════════════════════════════════╣
-║  Jira Reminder Workflows     ●  ACTIVE              ║
-║  IT Asset Reports (n8n)      ●  SCHEDULED           ║
-║  Power Apps (Production)     ●  RUNNING             ║
-║  Docker Services             ●  HEALTHY (99.9% up)  ║
-╠══════════════════════════════════════════════════════╣
-║  Manual Follow-up: ↓ 40%    SLA Breach: 18% → 4%   ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=I+automate+the+boring+stuff+%F0%9F%A4%96;n8n+%7C+Power+Platform+%7C+Docker+%7C+IoT;I+don't+just+fix+problems+%E2%80%94+I+prevent+them" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👋 Who Am I
+## 🧠 About Me
 
-```python
-class ThoubicImran:
-    role       = "Technical Support & Automation Engineer @ Sonovision-Aetos"
-    location   = "Bangalore, India 🇮🇳"
-    education  = "B.E Computer Science & Engineering (CGPA: 7.95) · 2025"
+> *"Most support engineers fix problems. I architect systems that make those problems disappear."*
 
-    specialties = [
-        "n8n Workflow Orchestration",
-        "Microsoft Power Platform (PowerApps · Power Automate · SharePoint)",
-        "Docker Container Management",
-        "IoT Systems (ESP32 · Embedded C++)",
-        "Python Automation & Streamlit Dashboards",
-        "Hardware Diagnostics (Component-Level)",
-    ]
+I'm a **Technical Support & Automation Engineer** with a CS background who sits at the intersection of IT operations, workflow automation, and hardware systems. At **Sonovision-Aetos**, I've:
 
-    philosophy = "Every recurring problem is a workflow waiting to be built."
-    currently  = "📚 Preparing for Microsoft SC-900 · Security & Compliance"
-
-    def __repr__(self):
-        return "I don't just fix problems — I build systems so they don't happen again."
-```
+- 🔁 **Automated Jira ticket reminders** with n8n → cut SLA breach rate from **18% → 4%**
+- ⚡ **Transformed 3-hour asset reports** into a **12-minute automated pipeline**
+- 🏗️ **Built Power Apps** used by cross-functional teams daily, reducing approval time by **70%**
+- 🐳 **Managed Docker environments** hosting business-critical internal automation tools
+- 🔩 **Diagnosed hardware** from logic boards to ESP32 sensors — full-stack, inside and out
 
 ---
 
-## 📊 Impact Numbers That Speak Louder Than Titles
+## 📊 At a Glance
 
 <div align="center">
 
-|  Metric | Before | After | Tool |
-|:--------|:------:|:-----:|:----:|
-| Jira SLA Breach Rate | 18% | **4%** | n8n + Email |
-| Weekly Asset Reporting | 3 hours | **12 min** | n8n + Snipe-IT |
-| Approval Processing | Days | **70% faster** | Power Apps |
-| Manual Dept Work | Baseline | **−20h/week** | Power Automate |
-| Internal Support Queries | Baseline | **−60%** | Documentation + Training |
+| Metric | Result |
+|--------|--------|
+| ⏱️ Manual follow-up time reduced | **40%** |
+| 📊 Asset report generation | **3h → 12 min** |
+| ✅ Approval processing time | **70% faster** |
+| 🤖 Weekly hours automated | **20h+** |
+| 🏆 Certifications | **10+** |
+| 🚀 Projects delivered | **7** |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### ⚡ Automation & Orchestration
+### ⚙️ Automation & DevOps
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-REST_APIs-6366f1?style=for-the-badge&logo=zapier&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 🔵 Microsoft Power Platform
+### ☁️ Microsoft Power Platform & Cloud
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### ☁️ Cloud & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 💻 Development & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔧 Hardware & IoT
-![ESP32](https://img.shields.io/badge/ESP32-CAM-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/Embedded_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-Hardware_Diagnostics-059669?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-<details>
-<summary><b>🏢 Technical Support & Automation Engineer · Sonovision-Aetos (Sep 2025 – Present)</b></summary>
-
-<br/>
-
-> *"This isn't traditional IT support. It's Operations Engineering — where every ticket becomes a workflow."*
-
-**Pillar 1 · Workflow Automation (n8n / Docker)**
-- 🔹 **Orchestrated** n8n pipelines for Jira ticket lifecycle → SLA breach rate dropped 18% → 4%
-- 🔹 **Engineered** automated asset reporting pipeline → 3 hours reduced to 12 minutes
-- 🔹 **Architected** Docker environments for internal automation tools with 99.9% uptime
-- 🔹 **Optimised** Jira + SharePoint + Slack webhook integrations eliminating cross-platform switching
-
-**Pillar 2 · Low-Code Solutions (Power Platform)**
-- 🔹 **Developed** canvas Power Apps used daily by cross-functional teams
-- 🔹 **Architected** Power Automate flows saving 20+ hours/week across departments
-- 🔹 **Managed** SharePoint environments with governance, libraries, and permission models
-- 🔹 **Conducted** training sessions → internal support queries reduced by 60%
-
-**Pillar 3 · IT Infrastructure & Support**
-- 🔹 **Delivered** advanced hardware troubleshooting (component-level, system imaging)
-- 🔹 **Built** Python/PowerShell dashboards for real-time infrastructure health visibility
-- 🔹 **Maintained** 100% uptime for critical business applications with documented runbooks
-
-</details>
+### 🔌 Hardware & IoT
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Embedded C++](https://img.shields.io/badge/Embedded_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_Systems-0094FF?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 IT Automation (Professional · Proprietary)
+### 🤖 Jira Ticket Reminder Automation *(Professional — Sonovision-Aetos)*
+> **n8n · Docker · Jira API · Slack**
 
-| Project | Stack | Impact |
-|---------|-------|--------|
-| **Jira Ticket Reminder Automation** | n8n · Docker · Jira API . Email | SLA breach: 18% → 4% · Follow-up ↓ 40% |
-| **IT Asset Reporting Pipeline** | n8n · Snipe-IT · Power BI | 3h → 12 min, zero errors |
-| **Auction Bidding Power App** | Power Apps · Power Automate · SharePoint | Approvals 70% faster, daily production use |
-| **Infrastructure Health Dashboard** | Python · Streamlit · PowerShell | Real-time visibility, replaced manual checks |
-
----
-
-### 🔬 Open Source & Personal Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔒 IoT Door Security System</h3>
-      <div align="center">
-        <a href="https://github.com/THOUBICIMRAN005/Doorway-Security-System">
-          <img src="https://img.shields.io/badge/View_on-GitHub-000?style=for-the-badge&logo=github"/>
-        </a>
-      </div>
-      <br/>
-      <p><b>Stack:</b> ESP32-CAM · Embedded C++ · Web Dashboard · Motion Detection</p>
-      <p><b>Challenge:</b> No remote monitoring for lab entry.</p>
-      <p><b>Solution:</b> Full hardware-to-web system with live video streaming, motion alerts, and responsive remote dashboard.</p>
-      <p><b>Impact:</b> 24/7 visibility · Zero missed incidents since deployment</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚛️ Quantum Resource Management</h3>
-      <div align="center">
-        <a href="https://github.com/THOUBICIMRAN005/Quantum-optimized-cloud-edge-resource-management-simulation">
-          <img src="https://img.shields.io/badge/View_on-GitHub-000?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://imran005-my-app.streamlit.app">
-          <img src="https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit"/>
-        </a>
-      </div>
-      <br/>
-      <p><b>Stack:</b> Python · Streamlit · Quantum-Inspired Algorithms</p>
-      <p><b>Challenge:</b> Classical algorithms plateau under high cloud/edge load.</p>
-      <p><b>Solution:</b> Quantum-inspired optimisation simulation with interactive Streamlit dashboard.</p>
-      <p><b>Impact:</b> 40% processing time reduction · 25% better resource utilisation</p>
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **⚡ Challenge** | Engineers missed SLA deadlines because Jira notifications drowned in email noise (18% breach rate) |
+| **🔧 Solution** | n8n workflow (Docker-hosted) polls Jira hourly, filters overdue tickets, fires targeted Slack DMs with one-click resolve links |
+| **📈 Impact** | Manual follow-up ↓ **40%** · SLA breach rate **18% → 4%** · Zero manual effort |
 
 ---
 
-## 🏆 Certifications & Credentials
+### 📊 IT Asset Reporting Automation *(Professional — Sonovision-Aetos)*
+> **n8n · Snipe-IT · SharePoint · Power BI**
 
-<div align="center">
+| | |
+|---|---|
+| **⚡ Challenge** | Monthly asset reports took 3+ hours of manual Excel work — error-prone and tedious |
+| **🔧 Solution** | Scheduled n8n pipeline auto-pulls from Snipe-IT, formats a report, emails stakeholders with Power BI link |
+| **📈 Impact** | Report time: **3 hours → 12 minutes** · Human error eliminated · Fully hands-off |
 
-| Status | Certification | Issuer | Verify |
-|:------:|:-------------|:------:|:------:|
-| 🔄 **In Progress** | Microsoft SC-900: Security, Compliance & Identity | Microsoft | — |
-| ✅ | Power BI Data Analyst Associate | Microsoft | [🔗](https://learn.microsoft.com/en-us/users/thoubicimran-5051/) |
-| ✅ | End-to-End Analytics using Microsoft Fabric | Microsoft | [🔗](https://learn.microsoft.com/en-gb/users/thoubicimran-5051/achievements/fqp8yrvx) |
-| ✅ | Power Platform Fundamentals (PL-900) | Microsoft | [🔗](https://learn.microsoft.com/en-us/users/thoubicimran-5051/) |
-| ✅ | AWS Certified Solutions Architect – Associate | Amazon AWS | [🔗](https://www.credly.com/users/thoubic-imran-m) |
-| ✅ | IBM SkillBuild: Data Fundamentals | IBM | [🔗](https://www.credly.com/badges/121d9987-5c65-424c-af70-050d2c16782e) |
-| ✅ | Cloud Computing Service Models | Great Learning | [🔗](https://www.mygreatlearning.com/certificate/ARXNXVCX) |
-| ✅ | Deep Learning | Great Learning | [🔗](http://mygreatlearning.com/certificate/WJZLXWNN) |
-| ✅ | Angular Firebase Workshop | MindLuster | [🔗](https://www.credly.com/users/thoubic-imran-m) |
-| ✅ | Computer Networks | MindLuster | [🔗](https://www.credly.com/users/thoubic-imran-m) |
+---
 
-</div>
+### 🏢 Auction Bidding Power App *(Professional — Sonovision-Aetos)*
+> **PowerApps · Power Automate · SharePoint**
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-View_All_Achievements-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/thoubicimran-5051/achievements)
-[![Credly](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thoubic-imran-m)
+| | |
+|---|---|
+| **⚡ Challenge** | Approval cycles took days via email — error-prone and untracked |
+| **🔧 Solution** | Canvas Power App with automated approval flows, SharePoint backend, real-time tracking, role-based access |
+| **📈 Impact** | Approval time ↓ **70%** · Used daily by multiple teams in production |
+
+---
+
+### 🔒 [IoT Door Security System](https://github.com/THOUBICIMRAN005/Doorway-Security-System)
+> **ESP32-CAM · Embedded C++ · Web Dashboard · IoT**
+
+| | |
+|---|---|
+| **⚡ Challenge** | No remote monitoring or instant alerts for lab entry |
+| **🔧 Solution** | ESP32-CAM firmware with motion detection, live video streaming, and a responsive web dashboard |
+| **📈 Impact** | 24/7 remote visibility · Zero missed incidents since deployment |
+
+---
+
+### ⚛️ [Quantum-Optimized Resource Management](https://github.com/THOUBICIMRAN005/Quantum-optimized-cloud-edge-resource-management-simulation) · [Live Demo](https://imran005-my-app.streamlit.app)
+> **Python · Streamlit · Quantum-Inspired Algorithms · Research**
+
+| | |
+|---|---|
+| **⚡ Challenge** | Classical algorithms plateau under high-load cloud/edge resource allocation |
+| **🔧 Solution** | Python simulation using quantum-inspired optimisation with interactive Streamlit dashboard |
+| **📈 Impact** | **40% reduction** in processing time · **25% improvement** in resource utilisation vs. classical methods |
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Level | Link |
+|---|---|---|---|
+| 🟦 Power BI Data Analyst Associate | Microsoft | Associate | [Verify](https://learn.microsoft.com/en-us/users/thoubicimran-5051/) |
+| 🟦 End-to-End Analytics using Microsoft Fabric | Microsoft | Fundamentals | [Verify](https://learn.microsoft.com/en-gb/users/thoubicimran-5051/achievements/fqp8yrvx) |
+| 🟦 Power Platform Fundamentals | Microsoft | Fundamentals | [Verify](https://learn.microsoft.com/en-us/users/thoubicimran-5051/) |
+| 🟦 Power BI Workshop Series (Multiple) | Microsoft | Workshop | [Verify](https://learn.microsoft.com/en-us/users/thoubicimran-5051/) |
+| 🟧 AWS Solutions Architect – Associate | Amazon Web Services | Associate | [Verify](https://www.credly.com/users/thoubic-imran-m) |
+| 🟧 AWS Solutions Architect – Practice | Amazon Web Services | Practice | [Verify](https://www.credly.com/users/thoubic-imran-m) |
+| 🟣 IBM SkillBuild: Data Fundamentals | IBM | Fundamentals | [Verify](https://www.credly.com/badges/121d9987-5c65-424c-af70-050d2c16782e) |
+| 🟢 Cloud Computing Service Models | Great Learning | Course | [Verify](https://www.mygreatlearning.com/certificate/ARXNXVCX) |
+| 🟢 Deep Learning | Great Learning | Course | [Verify](http://mygreatlearning.com/certificate/WJZLXWNN) |
+| 🟤 Angular Firebase Workshop | MindLuster | Workshop | [Verify](https://www.credly.com/users/thoubic-imran-m) |
+| 🟤 Computer Networks | MindLuster | Course | [Verify](https://www.credly.com/users/thoubic-imran-m) |
+
+> 🔄 **In Progress:** Microsoft **SC-900** — Security, Compliance & Identity Fundamentals
+
+---
+
+## 📚 Currently Learning & Building
+
+- 🛡️ **Microsoft SC-900** — Security, Compliance & Identity Fundamentals
+- 🤖 **AI-integrated n8n pipelines** — building intelligent, self-healing workflows
+- 📦 **Advanced Docker orchestration** — multi-container deployments for automation stacks
+- 🔐 **IoT Security Protocols** — hardening edge devices
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science & Engineering** — Dhanalakshmi Srinivasan Engineering College *(2021–2025)*
+CGPA: **7.95** | Graduated 2025
 
 ---
 
@@ -215,62 +181,33 @@ class ThoubicImran:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=THOUBICIMRAN005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THOUBICIMRAN005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=cbd5e1"/>
+![Thoubic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THOUBICIMRAN005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THOUBICIMRAN005&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=THOUBICIMRAN005&theme=tokyonight&hide_border=true)
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=THOUBICIMRAN005&theme=tokyonight&hide_border=true&background=0f172a&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
-## 🎓 Education
-
-```
-🎓 B.E — Computer Science & Engineering         CGPA: 7.95 / 10     2021 – 2025
-   Dhanalakshmi Srinivasan Engineering College
-
-📘 HSLC (Class XII)                             88.2%               2020 – 2021
-   Vidya Mandir Matriculation HSS
-
-📗 SSLC (Class X)                               86.2%               2018 – 2019
-   TSN Matriculation School
-```
-
----
-
-## 🌱 Currently
-
-- 📚 Preparing for **Microsoft SC-900**: Security, Compliance & Identity Fundamentals
-- 🤖 Exploring **AI integration in n8n** — building intelligent, self-healing automation workflows
-- 🔍 Open to **Operations Engineer**, **Automation Engineer**, and **Power Platform Developer** roles
-
----
-
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-thoubicimran005.github.io-0ea5e9?style=for-the-badge)](https://thoubicimran005.github.io/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0077B5?style=for-the-badge)](https://www.linkedin.com/in/thoubic-imran-1043ab219/)
-[![Email](https://img.shields.io/badge/📧_Email-thoubicimran005@gmail.com-D14836?style=for-the-badge)](mailto:thoubicimran005@gmail.com)
+**I'm open to opportunities in IT Automation, Operations Engineering, and Low-Code / Power Platform development.**
 
-📍 Bangalore, India &nbsp;|&nbsp; 📞 +91 9514217005 &nbsp;|&nbsp; 🕐 Open to Opportunities
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-0ea5e9?style=for-the-badge)](https://thoubicimran005.github.io/)
+[![Email](https://img.shields.io/badge/📧_Email-thoubicimran005%40gmail.com-D14836?style=for-the-badge)](mailto:thoubicimran005@gmail.com)
+[![Phone](https://img.shields.io/badge/📞_Phone-%2B91_9514217005-25D366?style=for-the-badge)](tel:+919514217005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thoubic-imran-1043ab219/)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer&text=Building%20automated%20systems%20that%20prevent%20problems&fontSize=14&fontColor=ffffff&fontAlignY=65" width="100%"/>
-
-*"Every recurring problem is a workflow waiting to be built."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=THOUBICIMRAN005&color=0ea5e9&style=flat-square&label=Profile+Views)
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=THOUBICIMRAN005.THOUBICIMRAN005" alt="Visitor Count"/>
+  <br/>
+  <sub>⚡ Currently @ Sonovision-Aetos, Bangalore · Open to Opportunities</sub>
 </div>
